@@ -1,6 +1,6 @@
 # Number of Islands: BFS and DFS Solutions Explained
 
-This document provides a detailed explanation of two classic approaches—**Breadth-First Search (BFS)** and **Depth-First Search (DFS)**—to solve the "Number of Islands" problem, as implemented in the provided Python file.
+This document provides a detailed explanation of two classic approaches—**Breadth-First Search (BFS)** and **Depth-First Search (DFS)**—to solve the "Number of Islands" problem.
 
 ---
 
